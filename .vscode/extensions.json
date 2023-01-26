@@ -1,0 +1,27 @@
+{
+  "recommendations": [
+    "streetsidesoftware.code-spell-checker",
+    "esbenp.prettier-vscode",
+    "johnpapa.Angular2",
+    "formulahendry.auto-rename-tag",
+    "mgmcdermott.vscode-language-babel",
+    "HookyQR.beautify",
+    "aaron-bond.better-comments",
+    "mikestead.dotenv",
+    "EditorConfig.EditorConfig",
+    "dsznajder.es7-react-js-snippets",
+    "dbaeumer.vscode-eslint",
+    "Dart-Code.flutter",
+    "eamodio.gitlens",
+    "kumar-harsh.graphql-for-vscode",
+    "xabikos.JavaScriptSnippets",
+    "shd101wyy.markdown-preview-enhanced",
+    "quicktype.quicktype",
+    "EQuimper.react-native-react-redux",
+    "burkeholland.simple-react-snippets",
+    "bradlc.vscode-tailwindcss",
+    "vscode-icons-team.vscode-icons",
+    "redhat.vscode-xml",
+    "CoenraadS.bracket-pair-colorizer"
+  ]
+}
